@@ -1,7 +1,8 @@
-{  
-  "url": "https://qstnus.com",
+{
+  "url": "https://testnet.qstnus.com",
   "name": "QSTN Marketplace",
-  "iconUrl": "https://qstnus.com/mstile-150x150.png",
-  "termsOfUseUrl": "https://qstnus.com/docs/terms.pdf",
-  "privacyPolicyUrl": "https://qstnus.com/docs/privacy.pdf"
+  "iconUrl": "https://testnet.qstnus.com/mstile-150x150.png",
+  "termsOfUseUrl": "https://testnet.qstnus.com/docs/terms.pdf",
+  "privacyPolicyUrl": "https://testnet.qstnus.com/docs/privacy.pdf"
 }
+
